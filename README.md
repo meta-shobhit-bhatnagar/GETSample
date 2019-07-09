@@ -1,2 +1,2 @@
-# getSample
+# GETSample
 tutorials
